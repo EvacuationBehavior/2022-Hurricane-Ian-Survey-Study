@@ -13,6 +13,7 @@ Survey of Protective Action Experiences in Hurricane Ian.pdf: the 2022 Hurricane
 If you found this questionnaire useful for your research, emergency planning, and/or decision-making, we would be grateful if you cite this survey instrument. You can cite the instrument like this:
 
 Huang, S-K., Lindell, M., & Zhao, X. (2024). Survey of Protective Action Experiences in Hurricane Ian--Questionnaire A. https://github.com/EvacuationBehavior/2022-Hurricane-Ian-Survey-Study/blob/main/Questionnaire%20A.pdf
+
 Huang, S-K., Lindell, M., & Zhao, X. (2024). Survey of Protective Action Experiences in Hurricane Ian--Questionnaire B. https://github.com/EvacuationBehavior/2022-Hurricane-Ian-Survey-Study/blob/main/Questionnaire%20B.pdf
 
 
